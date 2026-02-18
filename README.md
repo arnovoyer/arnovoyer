@@ -20,8 +20,7 @@ I'm a student that is starting with coding as well as game development. I'm expe
 
 ## GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnovoyer&theme=dark" alt="GitHub Streak" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=arnovoyer&theme=dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=arnovoyer&theme=dark&hide_border=false"/>
 
 ## GitHub Activity Graph
 
