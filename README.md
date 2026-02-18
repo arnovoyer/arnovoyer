@@ -21,7 +21,7 @@ I'm a student that is starting with coding as well as game development. I'm expe
 ## GitHub Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnovoyer&theme=dark" alt="GitHub Streak" />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arnovoyer&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=arnovoyer&theme=dark&hide_border=true"/>
 
 ## GitHub Activity Graph
 
