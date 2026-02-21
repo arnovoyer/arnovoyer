@@ -20,7 +20,7 @@ I'm a student that is starting with coding as well as game development. I'm expe
 
 ## GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/demo/?user=arnovoyer&theme=dark&hide_border=false&border_radius=4.5&locale=de&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arnovoyer&theme=dark&locale=de)](https://git.io/streak-stats)
 
 ## GitHub Activity Graph
 
