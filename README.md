@@ -1,6 +1,6 @@
 # Hello 👋, I'm Arno
 
-I'm a student that is starting with coding as well as game development. I'm experimenting with multiple languages and try to understand them.
+I'm a High-School Student that is starting with coding as well as game development. I'm experimenting with multiple languages which you can see below. I am currently building multiple websites with HTML, CSS & JS. In addition I am still doing some work with Unity and game development. 
 
 ## Contact Me
 <p><a href="https://arnovoyer.com" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://www.instagram.com/arno.voyer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
