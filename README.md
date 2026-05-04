@@ -17,9 +17,6 @@ I'm a High-School Student that is starting with coding as well as game developme
 [![](https://komarev.com/ghpvc/?username=arnovoyer&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arnovoyer&theme=dark&locale=de)](https://git.io/streak-stats)
 
 ## GitHub Activity Graph
 
