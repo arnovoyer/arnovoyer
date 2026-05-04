@@ -13,11 +13,12 @@ I'm a High-School Student that is starting with coding as well as game developme
 ![](https://streak-stats.demolab.com/?user=arnovoyer&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=arnovoyer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnovoyer&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+
+
 ---
 [![](https://komarev.com/ghpvc/?username=arnovoyer&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnovoyer&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
